@@ -1,5 +1,5 @@
-$botToken = "TOKEN @rmsup"
-$chatID = "ID @secbaz"
+$botToken = "7605005911:AAFGRr4k25QbRLOlxcT-6lb3riLB5iWlCjI"
+$chatID = "5709299213"
 # https://t.me/rmsup
 function Send-TelegramMessage {
     param (
